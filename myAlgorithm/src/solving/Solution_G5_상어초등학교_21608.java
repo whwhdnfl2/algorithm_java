@@ -1,3 +1,4 @@
+package solving;
 
 public class Solution_G5_상어초등학교_21608 {
 

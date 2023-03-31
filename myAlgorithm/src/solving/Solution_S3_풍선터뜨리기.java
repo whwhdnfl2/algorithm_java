@@ -1,3 +1,4 @@
+package solving;
 import java.util.Scanner;
 
 public class Solution_S3_풍선터뜨리기 {
